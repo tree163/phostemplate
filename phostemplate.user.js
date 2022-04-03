@@ -7,7 +7,7 @@
 // @match        https://hot-potato.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @updateURL    https://github.com/tree163/phostemplate/raw/main/phostemplate.user.js
-// @downloadURL  https://github.com/kylomorales/phostemplate/raw/main/phostemplate.user.js
+// @downloadURL  https://github.com/tree163/phostemplate/raw/main/phostemplate.user.js
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
