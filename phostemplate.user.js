@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         land of the lustrous fellas
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  Keep the canvas beautiful!
 // @author       Original author oralekin from osu! /r/osuplace, appropriated by @tree#9400 on discord for r/landofthelustrous
 // @match        https://hot-potato.reddit.com/embed*
